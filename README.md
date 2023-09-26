@@ -22,7 +22,7 @@ Para utilizarmos as informações de maneira ideal, foi necessário fazer a mani
 - Correção dos tipos de dados
 
 ## Entendimento dos dados
-<p align="justify"> Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (mín, máx, desvio padrão), afim de procurar por padrôes ou tendências relevantes para o negócio.
+<p align="justify"> Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (média, mínimo, máximo, desvio padrão), afim de procurar por padrôes ou tendências relevantes para o negócio.
 
 ## Perguntas de negócio
 <p align="justify"> 
